@@ -8,5 +8,5 @@ Profesora de Matemática Básica <a href="https://www.uc.cl/">Pontificia Univers
 
 
 
-<b> Me encanta </b> leer 📖 ,  escuchar podcasts🎙, hacer deporte 🏋🏻‍♀️  y ver anime 📺 <b> pero lo que más me gusta es aprender cosas nuevas :) </b> 
+Me encanta  <b> leer 📖 ,  escuchar podcasts🎙, hacer deporte 🏋🏻‍♀️  y ver anime 📺 </b> pero lo que más me gusta es <b> aprender cosas nuevas :) </b> 
 
