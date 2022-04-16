@@ -4,9 +4,3 @@
 Profesora de Matemática Básica <a href="https://www.uc.cl/">Pontificia Universidad Católica de Chile </a> </em> 👩🏻‍🏫 </p>
 
 
-
-
-
-
-Me encanta  <b> leer 📖 ,  escuchar podcasts🎙, hacer deporte 🏋🏻‍♀️  y ver anime 📺 </b> pero lo que más me gusta es <b> aprender cosas nuevas :) </b> 
-
