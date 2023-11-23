@@ -5,7 +5,7 @@ Desde siempre he sido curiosa y amante del aprendizaje, por lo mismo decidí ser
 Actualmente me encuentro ejerciendo mi primer trabajo como desarrolladora Full Stack, cambiando completamente mi mundo laboral. Aprendiendo diversas tecnologías y compartiendo con diferentes áreas del back office. Hasta dónde me llevará mi curiosidad es un camino que deseo recorrer.
 
 
-<strong> Aptitudes principales: React.js, Node, Sequelize, Bootstrap, C#, Mssql, Visual Studio y Visual Studio Code. </strong>
+<strong> Aptitudes principales: React.js, Node, Sequelize, Bootstrap, C#, Mssql, .Net, Visual Studio y Visual Studio Code. </strong>
 
 
 <p><em> Front End Developer  <a href="https://www.laboratoria.la/"> Laboratoria </a><img src="https://avatars.githubusercontent.com/u/7280695?s=200&v=4" width="30"></br>
